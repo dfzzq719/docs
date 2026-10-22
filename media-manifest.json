@@ -1,0 +1,25 @@
+{
+  "project": "AlphaKit",
+  "purpose": "Public PyPI project description images",
+  "website": "https://alphakit.cn/",
+  "images": [
+    {
+      "path": "images/alphakit-sdk-hero-20261022.webp",
+      "sha256": "52ca197e9f7263028efeb657ab2339c9173713a39be12ff8a9f9fbe9a8a8ad46",
+      "bytes": 100256,
+      "dimensions": [
+        1774,
+        887
+      ]
+    },
+    {
+      "path": "images/alphaview-product-20261022.webp",
+      "sha256": "a194ad26b2b92b778ade9bc13659775357d961ce2cd2658d10ee6f839d7e1e2d",
+      "bytes": 249506,
+      "dimensions": [
+        2044,
+        1271
+      ]
+    }
+  ]
+}
