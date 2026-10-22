@@ -20,6 +20,17 @@
         2044,
         1271
       ]
+    },
+    {
+      "path": "images/alphakit-sdk-saas-promo-20261022.webp",
+      "sha256": "2291da418e9f5e86c82ee4e5a487a7e77a2c1d458518ba1a600816607f7a557a",
+      "bytes": 410150,
+      "dimensions": [
+        2304,
+        1728
+      ],
+      "purpose": "SDK feature introduction with the companion AlphaView web product screenshot",
+      "overlay_font": "Microsoft YaHei"
     }
   ]
 }
