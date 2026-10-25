@@ -31,6 +31,17 @@
       ],
       "purpose": "SDK feature introduction with the companion AlphaView web product screenshot",
       "overlay_font": "Microsoft YaHei"
+    },
+    {
+      "path": "images/alphakit-sdk-wide-banner-20261025.webp",
+      "sha256": "17710aa629caa6838ab8df06057fa0accf9d687537eda5aafb5fdb681d43e5c0",
+      "bytes": 788824,
+      "dimensions": [
+        2560,
+        960
+      ],
+      "purpose": "Horizontal AlphaKit SDK banner adapted from the user-provided market-data infographic",
+      "overlay_font": "Microsoft YaHei"
     }
   ]
 }
